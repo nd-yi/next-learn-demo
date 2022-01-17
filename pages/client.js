@@ -1,6 +1,7 @@
 import Layout from '../components/layout'
 
 export default function Page () {
+  console.log('========================= ~ Page ~ Page', Page)
   return (
     <Layout>
       <h1>Client Side Rendering</h1>
